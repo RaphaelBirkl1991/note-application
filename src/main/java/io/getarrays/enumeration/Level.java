@@ -1,4 +1,4 @@
-package enumeration;
+package io.getarrays.enumeration;
 
 public enum Level {
     HIGH (3),

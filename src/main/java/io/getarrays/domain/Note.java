@@ -1,7 +1,7 @@
-package domain;
+package io.getarrays.domain;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import enumeration.Level;
+import io.getarrays.enumeration.Level;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;

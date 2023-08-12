@@ -1,4 +1,4 @@
-package domain;
+package io.getarrays.domain;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.Data;
