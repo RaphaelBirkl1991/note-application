@@ -15,7 +15,7 @@ import java.net.URI;
 
 
     @RestController
-    @RequestMapping("/note")
+    @RequestMapping(path = "/note")
     @RequiredArgsConstructor
     public class NoteResource {
         private final NoteService noteService;
